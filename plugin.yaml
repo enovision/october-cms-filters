@@ -1,0 +1,6 @@
+plugin:
+    name: 'enovision.filters::lang.plugin.name'
+    description: 'enovision.filters::lang.plugin.description'
+    author: 'Johan van de Merwe'
+    icon: oc-icon-filter
+    homepage: ''
